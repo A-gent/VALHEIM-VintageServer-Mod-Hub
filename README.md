@@ -15,7 +15,7 @@
 2.) Right click Valheim in your Steam library, click properties.<br>
 3.) Click the installed files tab in the properties window.<br>
 4.) Click the "Browse" button to open up your game install folder.<br>
-5.) Unzip all of the contents of the "BepInEx_Valheim" zip file you downloaded before directly into your game install folder.
+5.) Unzip all of the contents of the "BepInEx_Valheim" zip file you downloaded directly into your game install folder.
 <br>
 <br>
 <br>
@@ -29,4 +29,4 @@
 2.) Right click Valheim in your Steam library, click properties.<br>
 3.) Click the installed files tab in the properties window.<br>
 4.) Click the "Browse" button to open up your game install folder.<br>
-5.) Unzip all of the contents of the "CurrentServerMods_Package" zip file you downloaded before directly into your game install folder.
+5.) Unzip all of the contents of the "CurrentServerMods_Package" zip file you downloaded directly into your game install folder.
