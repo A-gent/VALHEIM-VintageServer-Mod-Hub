@@ -15,4 +15,4 @@
 2.) Right click Valheim in your Steam library, click properties.<br>
 3.) Go to the installed files tab in the properties window.<br>
 4.) Click the "Browse" button to open up your game install folder.<br>
-5.) Unzip the zip file you downloaded before directly into your game client's 
+5.) Unzip the zip file you downloaded before directly into your game install folder.
