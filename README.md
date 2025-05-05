@@ -13,6 +13,6 @@
 
 1.) [Click here to download the zip file for the current BepInEx framework](https://github.com/A-gent/VALHEIM-VintageServer-Mod-Hub/releases/download/FirstTimeInstall/BepInEx_Valheim.zip).<br>
 2.) Right click Valheim in your Steam library, click properties.<br>
-3.) Go to the installed files tab in the properties window.<br>
+3.) Click the installed files tab in the properties window.<br>
 4.) Click the "Browse" button to open up your game install folder.<br>
 5.) Unzip the zip file you downloaded before directly into your game install folder.
