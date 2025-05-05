@@ -10,7 +10,7 @@
 #### If you already have BepInEx installed on your game client, skip the install for it here and jump to the next guide.
 
 <br>
-##### BepInEx quick install guide:
+###### BepInEx quick install guide:
 
 1.) Download the zip file at this link right here.<br>
 2.) Right click Valheim in your Steam library, click properties.<br>
