@@ -12,7 +12,8 @@
 
 ###### BepInEx quick install guide:
 
-1.) Download the zip file at this link right here.<br>
+
+1.) [I'm an inline-style link with title](https://www.google.com "Click here to download the zip file for the current BepInEx framework").<br>
 2.) Right click Valheim in your Steam library, click properties.<br>
 3.) Go to the installed files tab in the properties window.
 4.) Click the "Browse" button to open up your game client's install folder.<br>
