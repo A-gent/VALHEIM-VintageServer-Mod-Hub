@@ -7,7 +7,7 @@
 
 ###### FIRST-TIME-SETUP
 #### To install ANY mods on your client, you need to have BepInEx modding framework installed on your local game client.
-#### *If you already have BepInEx installed on your game client, skip the install for it here and jump to the next guide.* <br><br>
+#### *If you already have BepInEx installed on your game client, skip the install for it here and jump straight to the next guide.* <br><br>
 ###### BepInEx quick install guide:
 
 
