@@ -38,3 +38,9 @@
 The following mods are included in this pack and are mirrored onto the Vintage Gaming server:
 > TEST <br>
 > TEST2
+
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
