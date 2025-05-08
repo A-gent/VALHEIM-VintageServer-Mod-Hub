@@ -37,7 +37,7 @@
 
 > The following mods are included in this pack and are mirrored onto the Vintage Gaming server: <br>
 
-- Item 1
+- Chatter - Overhauls the in-game chat window and how it behaves. Pack is configured to force global shouts by default to avoid accidental out of range proxy chat.
 - Item 2
 - Item 3
   - Sub Item 1
