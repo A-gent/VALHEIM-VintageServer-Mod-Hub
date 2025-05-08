@@ -38,7 +38,7 @@
 > The following mods are included in this pack and are mirrored onto the Vintage Gaming server: <br>
 
 - Chatter
-  - Overhauls the in-game chat window and how it behaves.<br>Pack is configured to force global shouts by default to avoid accidental out of range proxy chat.
+  - Overhauls the in-game chat window and how it behaves.<br>The current mods pack above is pre-configured to force global shouts by default to avoid accidental out of range proxy chat.
 - Configuration Manager
   - Adds a mod menu to allow for configuring installed mod settings from the main menu or by pressing F1.<br>If making changes to settings, you have to rejoin the server to allow the changes to be made so its best to make changes from the main menu!
 - Item 3
