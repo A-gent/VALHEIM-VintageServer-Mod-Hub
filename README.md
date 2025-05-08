@@ -35,9 +35,7 @@
 <br>
 <br>
 
-The following mods are included in this pack and are mirrored onto the Vintage Gaming server:
-> TEST <br>
-> TEST2
+> The following mods are included in this pack and are mirrored onto the Vintage Gaming server: <br>
 
 - Item 1
 - Item 2
