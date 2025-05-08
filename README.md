@@ -31,3 +31,10 @@
 4.) Click the "Browse" button to open up your game install folder.<br>
 5.) Unzip all of the contents of the "CurrentServerMods_Package" zip file you downloaded directly into your game install folder.<br>
 6.) If it asks you to overwrite any existing mod files, say yes.
+<br>
+<br>
+<br>
+
+The following mods are included in this pack and are mirrored onto the Vintage Gaming server:
+> TEST
+> TEST2
