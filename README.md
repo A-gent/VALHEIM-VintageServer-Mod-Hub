@@ -40,31 +40,45 @@
 ###### 
 > The following mods are included in this pack and are mirrored onto the Vintage Gaming server <br>(This list is for people who want to install these mods themselves via a mod manager): <br>
 
-- Adventure Backpacks
+
+
+- Adventure Backpacks - [Mod Page Here](https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/)
   - Adds a substantive collection of upgradeable and configurable backpacks to the game.
-- Basements
+- Basements - [Mod Page Here](https://thunderstore.io/c/valheim/p/sbtoonz/Basements/)
   - Adds the ability to create basements beneath your structures to expand your available space.
-- Dual Wield
+- Better Networking - [Mod Page Here](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/)
+  - Overhauls server networking to improve performance.
+- Dual Wield - [Mod Page Here](https://thunderstore.io/c/valheim/p/Smoothbrain/DualWield/)
   - Adds the ability to dual-wield 1-handed weapons.
-- Chatter
+- Chatter - [Mod Page Here](https://thunderstore.io/c/valheim/p/ComfyMods/Chatter/)
   - Overhauls the in-game chat window and how it behaves.<br>The current mods pack above is pre-configured to force global shouts by default to avoid accidental out of range proxy chat.
-- Configuration Manager
+- Configuration Manager - [Mod Page Here](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/)
   - Adds a mod menu to allow for configuring installed mod settings from the main menu or by pressing F1.<br>If making changes to settings, you have to rejoin the server to allow the changes to be made so its best to make changes from the main menu!
-- Extra Slots
+- Extra Slots - [Mod Page Here](https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/)
   - Adds a series of custom equipment slots to hold your equipment and free up inventory space.
-- Extra Slots Custom Slots
+- Extra Slots Custom Slots - [Mod Page Here](https://thunderstore.io/c/valheim/p/shudnal/ExtraSlotsCustomSlots/)
   - Adds a series of custom equipment slots to further hold your custom-added mod equipments.
-- Floors Are Roofs
+- Floors Are Roofs - [Mod Page Here](https://thunderstore.io/c/valheim/p/bonesbro_repost/FloorsAreRoofs/)
   - Allows floors to grant the sheltered status effect like roofs do.
-- Hip Lanterns
+- Hip Lanterns - [Mod Page Here](https://thunderstore.io/c/valheim/p/shudnal/HipLantern/)
   - Adds small lanterns that can be equipped to your hip to give some light while keeping your hands free.
-- Jotunn
+- Jotunn - [Mod Page Here](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/)
   - This just a library mod that is a dependency for a few mods.
-- Jesus Slippers
+- Jesus Slippers - [Mod Page Here](https://thunderstore.io/c/valheim/p/bid/JesusSlippers/)
   - Walk on water. Stay dry in rain. Divine comfort with a hint of heresy.
-- No Rain Damage
+- No Rain Damage - [Mod Page Here](https://thunderstore.io/c/valheim/p/JoelOliMclean/NoRainDamage/)
   - Disabled rain damage on exposed fabrications.
-- Odin Horse
+- Odin Horse - [Mod Page Here](https://thunderstore.io/c/valheim/p/OdinPlus/OdinHorse/)
   - Adds rideable, tameable horses to the game with many mechanics.
-- Portal Stations
+- Portal Stations - [Mod Page Here](https://thunderstore.io/c/valheim/p/RustyMods/PortalStations/)
   - Adds scalable and customizable custom portal system to the game.
+- Seasonality - [Mod Page Here](https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/)
+  - Adds seasons to the game so there is active cycling of seasonal visuals.
+- Server Dev Commands - [Mod Page Here](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/)
+  - Enables dev for admins.
+- Sullys Floating Chest Icons - [Mod Page Here](https://thunderstore.io/c/valheim/p/SurplusTradingCo/SullysFloatingChestIcons/)
+  - Adds floating chest icon of the most common item inside a chest, when hovered over it.
+- Timed Torches Stay Lit - [Mod Page Here](https://thunderstore.io/c/valheim/p/TastyChickenLegs/TimedTorchesStayLit/)
+  - Allows for setting lights on a timer and makes torches not require fuel.
+- Build Near locations - [Mod Page Here](https://thunderstore.io/c/valheim/p/LottieVixen/Build_Near_Locations/)
+  - Removes the "A Mystical Force Stops You" when trying to build near certain location types.
