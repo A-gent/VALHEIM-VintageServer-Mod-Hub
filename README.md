@@ -35,16 +35,36 @@
 <br>
 <br>
 <br>
+<br>
 
+###### 
 > The following mods are included in this pack and are mirrored onto the Vintage Gaming server <br>(This list is for people who want to install these mods themselves via a mod manager): <br>
 
 - Adventure Backpacks
   - Adds a substantive collection of upgradeable and configurable backpacks to the game.
+- Basements
+  - Adds the ability to create basements beneath your structures to expand your available space.
+- Dual Wield
+  - Adds the ability to dual-wield 1-handed weapons.
 - Chatter
   - Overhauls the in-game chat window and how it behaves.<br>The current mods pack above is pre-configured to force global shouts by default to avoid accidental out of range proxy chat.
 - Configuration Manager
   - Adds a mod menu to allow for configuring installed mod settings from the main menu or by pressing F1.<br>If making changes to settings, you have to rejoin the server to allow the changes to be made so its best to make changes from the main menu!
 - Extra Slots
-  - Adds a 
-- FINISH WRITING THIS LIST
-  - HERE
+  - Adds a series of custom equipment slots to hold your equipment and free up inventory space.
+- Extra Slots Custom Slots
+  - Adds a series of custom equipment slots to further hold your custom-added mod equipments.
+- Floors Are Roofs
+  - Allows floors to grant the sheltered status effect like roofs do.
+- Hip Lanterns
+  - Adds small lanterns that can be equipped to your hip to give some light while keeping your hands free.
+- Jotunn
+  - This just a library mod that is a dependency for a few mods.
+- Jesus Slippers
+  - Walk on water. Stay dry in rain. Divine comfort with a hint of heresy.
+- No Rain Damage
+  - Disabled rain damage on exposed fabrications.
+- Odin Horse
+  - Adds rideable, tameable horses to the game with many mechanics.
+- Portal Stations
+  - Adds scalable and customizable custom portal system to the game.
