@@ -37,7 +37,7 @@
 <br>
 <br>
 
-###### 
+###### MODS INCLUDED IN THIS PACK
 > The following mods are included in this pack and are mirrored onto the Vintage Gaming server <br>(This list is for people who want to install these mods themselves via a mod manager): <br>
 
 
