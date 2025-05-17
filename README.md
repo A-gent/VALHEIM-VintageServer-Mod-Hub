@@ -48,6 +48,8 @@
   - Adds the ability to create basements beneath your structures to expand your available space.
 - Better Networking - [Mod Page Here](https://thunderstore.io/c/valheim/p/CW_Jesse/BetterNetworking_Valheim/)
   - Overhauls server networking to improve performance.
+- Build Near locations - [Mod Page Here](https://thunderstore.io/c/valheim/p/LottieVixen/Build_Near_Locations/)
+  - Removes the "A Mystical Force Stops You" when trying to build near certain location types.
 - Dual Wield - [Mod Page Here](https://thunderstore.io/c/valheim/p/Smoothbrain/DualWield/)
   - Adds the ability to dual-wield 1-handed weapons.
 - Chatter - [Mod Page Here](https://thunderstore.io/c/valheim/p/ComfyMods/Chatter/)
@@ -80,5 +82,5 @@
   - Adds floating chest icon of the most common item inside a chest, when hovered over it.
 - Timed Torches Stay Lit - [Mod Page Here](https://thunderstore.io/c/valheim/p/TastyChickenLegs/TimedTorchesStayLit/)
   - Allows for setting lights on a timer and makes torches not require fuel.
-- Build Near locations - [Mod Page Here](https://thunderstore.io/c/valheim/p/LottieVixen/Build_Near_Locations/)
-  - Removes the "A Mystical Force Stops You" when trying to build near certain location types.
+- Plant Anywhere - [Mod Page Here](https://thunderstore.io/c/valheim/p/nDeavor/PlantAnywhere/)
+  - Removes the crop growth restrictions on biomes.
