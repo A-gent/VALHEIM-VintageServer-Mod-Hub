@@ -88,3 +88,5 @@
   - Allows for setting lights on a timer and makes torches not require fuel.
 - Plant Anywhere - [Mod Page Here](https://thunderstore.io/c/valheim/p/nDeavor/PlantAnywhere/)
   - Removes the crop growth restrictions on biomes.
+- ValheimRAFT Continued - [Mod Page Here](https://www.nexusmods.com/valheim/mods/2630) 
+  - Allows you to BUILD Valheim ships.
