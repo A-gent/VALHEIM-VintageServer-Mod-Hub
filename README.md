@@ -62,6 +62,8 @@
   - Adds a series of custom equipment slots to further hold your custom-added mod equipments.
 - Floors Are Roofs - [Mod Page Here](https://thunderstore.io/c/valheim/p/bonesbro_repost/FloorsAreRoofs/)
   - Allows floors to grant the sheltered status effect like roofs do.
+- Gizmo - [Mod Page Here](https://thunderstore.io/c/valheim/p/ComfyMods/Gizmo/)
+  - Allows you to rotate build pieces with more precision via the hammer during building.
 - Hip Lanterns - [Mod Page Here](https://thunderstore.io/c/valheim/p/shudnal/HipLantern/)
   - Adds small lanterns that can be equipped to your hip to give some light while keeping your hands free.
 - Jotunn - [Mod Page Here](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/)
@@ -74,6 +76,8 @@
   - Adds rideable, tameable horses to the game with many mechanics.
 - Portal Stations - [Mod Page Here](https://thunderstore.io/c/valheim/p/RustyMods/PortalStations/)
   - Adds scalable and customizable custom portal system to the game.
+- Pottery Barn - [Mod Page Here](https://thunderstore.io/c/valheim/p/ComfyMods/PotteryBarn/)
+  - Adds existing prefabs in the game to the hammer so they may be built.
 - Seasonality - [Mod Page Here](https://thunderstore.io/c/valheim/p/RustyMods/Seasonality/)
   - Adds seasons to the game so there is active cycling of seasonal visuals.
 - Server Dev Commands - [Mod Page Here](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/)
